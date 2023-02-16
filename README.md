@@ -24,10 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1440" alt="Screenshot 2023-02-16 at 17 23 31" src="https://user-images.githubusercontent.com/60285814/219338838-cc449a27-4e38-4951-ae27-b1a028481ce7.png">
+
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL here]()
+- Solution URL: [Solution URL](https://github.com/stkhalisha/social-proof-section)
+- Live Site URL: [Live site URL here](https://stkhalisha.github.io/social-proof-section/)
 
 ### Built with
 
