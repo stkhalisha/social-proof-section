@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/stkhalisha/social-proof-section)
-- Live Site URL: [Live site URL here](https://stkhalisha.github.io/social-proof-section/)
+- Live Site URL: [Live site URL here](https://stkhalisha-social-proof-section.vercel.app/)
 
 ### Built with
 
@@ -50,4 +50,3 @@ I am currently in love with tailwindcss (CSS framework). This framework makes co
 
 - Frontend Mentor - [@stkhalisha](https://www.frontendmentor.io/profile/stkhalisha)
 - Freecodecamp - [@stkhalisha](https://www.freecodecamp.org/stkhalisha)
-- Twitter - [@stkhalisha](https://www.twitter.com/stkhalisha)
